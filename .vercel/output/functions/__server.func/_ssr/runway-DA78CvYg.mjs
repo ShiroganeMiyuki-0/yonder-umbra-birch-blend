@@ -4,7 +4,7 @@ import { n as require_react } from "../_libs/@radix-ui/react-compose-refs+[...].
 import { n as require_jsx_runtime } from "../_libs/radix-ui__react-context+react.mjs";
 import { n as useAppStore, t as Button } from "./store-DSxzbGOy.mjs";
 import { t as Input } from "./input-DqfXKJkV.mjs";
-import { b as useNavigate } from "../_libs/@tanstack/react-router+[...].mjs";
+import { S as useNavigate } from "../_libs/@tanstack/react-router+[...].mjs";
 import { a as weekIncome, o as weekSpend, r as runwayDays, t as dailyBurn } from "./matching-IF_YsjHk.mjs";
 import { n as money, r as shortDate, t as daysLabel } from "./format-D5HUu2i0.mjs";
 import { i as DialogTitle, n as DialogContent, r as DialogDescription, t as Dialog } from "./dialog-alJhITqc.mjs";

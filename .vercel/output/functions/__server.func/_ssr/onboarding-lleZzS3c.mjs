@@ -5,7 +5,7 @@ import { n as require_jsx_runtime } from "../_libs/radix-ui__react-context+react
 import { n as useAppStore, t as Button } from "./store-DSxzbGOy.mjs";
 import { i as SKILL_OPTIONS, r as SITUATIONS, t as CONSTRAINT_OPTIONS } from "./paths-DrohK9HS.mjs";
 import { t as Input } from "./input-DqfXKJkV.mjs";
-import { b as useNavigate, y as Navigate } from "../_libs/@tanstack/react-router+[...].mjs";
+import { S as useNavigate, x as Navigate } from "../_libs/@tanstack/react-router+[...].mjs";
 import { f as ArrowRight, p as ArrowLeft } from "../_libs/lucide-react.mjs";
 //#region node_modules/.nitro/vite/services/ssr/assets/onboarding-lleZzS3c.js
 var import_react = /* @__PURE__ */ __toESM(require_react());

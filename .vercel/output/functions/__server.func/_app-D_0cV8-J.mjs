@@ -4,7 +4,7 @@ import { n as require_react } from "./_libs/@radix-ui/react-compose-refs+[...].m
 import { n as require_jsx_runtime } from "./_libs/radix-ui__react-context+react.mjs";
 import { n as useAppStore } from "./_ssr/store-DSxzbGOy.mjs";
 import { n as PATHS } from "./_ssr/paths-DrohK9HS.mjs";
-import { v as Link } from "./_libs/@tanstack/react-router+[...].mjs";
+import { b as Link } from "./_libs/@tanstack/react-router+[...].mjs";
 import { d as Check, u as ChevronRight } from "./_libs/lucide-react.mjs";
 import { a as weekIncome, i as todaysMoves, n as rankPaths, r as runwayDays } from "./_ssr/matching-IF_YsjHk.mjs";
 import { n as money, t as daysLabel } from "./_ssr/format-D5HUu2i0.mjs";
